@@ -7,4 +7,4 @@ Using python 3.6.9 [GCC 8.3.0] on linux
 
  <p>sudo pip3 install numpy</p>
  <p>sudo pip3 install matplotlib </p>
- <p>sudo pip3 intall pandas# Machine-learning </p>
+ <p>sudo pip3 intall pandas</p>
